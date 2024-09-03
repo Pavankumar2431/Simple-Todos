@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.titleItem {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.btn {
+  background-color: transparent;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  cursor: pointer;
+}
+
+li {
+  width: 800px;
+}
+.title {
+  color: #000000;
+  font-size: 20px;
+}

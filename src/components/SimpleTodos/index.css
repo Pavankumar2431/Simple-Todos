@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  font-family: Roboto;
+}
+
+h1 {
+  color: #ff8542;
+  font-size: 50px;
+  text-align: center;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 15px;
+  margin: 20px;
+}
