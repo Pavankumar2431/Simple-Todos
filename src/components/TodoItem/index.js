@@ -1,4 +1,7 @@
 import {Component} from 'react'
+import {CiEdit} from 'react-icons/ci'
+import {MdDeleteOutline} from 'react-icons/md'
+
 import './index.css'
 
 class TodoItem extends Component {
@@ -70,7 +73,7 @@ class TodoItem extends Component {
               type="button"
               className="delete-btn"
             >
-              Delete
+              <MdDeleteOutline size={25} />
             </button>
           </>
         )}

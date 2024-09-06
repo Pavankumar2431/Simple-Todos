@@ -26,8 +26,9 @@
 }
 .add {
   padding: 10px;
-  background-color: skyblue;
+  background-color: #4c63b6;
   color: #fff;
+  border: 1px solid #4c63b6;
   border-radius: 5px;
 }
 .inner-container {
